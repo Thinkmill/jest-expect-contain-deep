@@ -1,0 +1,29 @@
+{
+  "name": "jest-expect-contain-deep",
+  "version": "0.0.0",
+  "description": "Assert deeply nested values in Jest",
+  "main": "index.js",
+  "repository": "https://github.com/Thinkmill/jest-expect-contain-deep",
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "keywords": [
+    "jest",
+    "test",
+    "assertion",
+    "deep"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "expect": "^21.1.0",
+    "flow-bin": "^0.55.0",
+    "jest": "^21.1.0"
+  },
+  "peerDependencies": {
+    "expect": "^21.1.0"
+  }
+}
