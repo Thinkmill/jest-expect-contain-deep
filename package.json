@@ -1,6 +1,6 @@
 {
   "name": "jest-expect-contain-deep",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Assert deeply nested values in Jest",
   "main": "index.js",
   "repository": "https://github.com/Thinkmill/jest-expect-contain-deep",
