@@ -19,11 +19,10 @@
     "test": "jest"
   },
   "devDependencies": {
-    "expect": "^21.1.0",
     "flow-bin": "^0.55.0",
     "jest": "^21.1.0"
   },
-  "peerDependencies": {
+  "dependencies": {
     "expect": "^21.1.0"
   }
 }
